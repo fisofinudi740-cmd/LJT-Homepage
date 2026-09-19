@@ -1,0 +1,51 @@
+---
+layout: single
+title: Publications
+author_profile: true
+---
+
+# Publications
+
+## 2025
+
+### SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond
+
+**Junteng Liu** (First author), Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He
+
+Published on Arxiv
+
+### On the Perception Bottleneck of VLMs for Chart Understanding
+
+**Junteng Liu** (First author), Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
+
+Published on Arxiv
+GitHub code repository: Vision4Chart
+
+## 2024
+
+### On the Universal Truthfulness Hyperplane Inside LLMs
+
+**Junteng Liu** (First author), Shiqi Chen, Yu Cheng, Junxian He
+
+Published at EMNLP 2024
+GitHub code repository: Universal_Truthfulness_Hyperplane
+
+### In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation
+
+Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He
+
+Published at ICML 2024
+
+## 2023
+
+### C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models
+
+Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He
+
+Published at NeurIPS 2023
+
+### Composing Parameter-Efficient Modules with Arithmetic Operations
+
+Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He
+
+Published at NeurIPS 2023

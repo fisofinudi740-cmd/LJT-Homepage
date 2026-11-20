@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 I am a first-year PhD candidate at the HKUST NLP Group, supervised by Professor Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024. My research focuses on natural language processing and machine learning.
 
 Research Interests
@@ -44,7 +46,7 @@ Publications
 6. **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023)
   * Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate) or on the [Publications](/publications/) page.
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate) or on the [Publications]({{ base_path }}/publications/) page.
 
 Skills
 ======
